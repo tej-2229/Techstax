@@ -23,4 +23,4 @@ A simple personal task tracking app with user authentication and task management
 - Hot Restart: Resets the app state and fully reloads the app. Needed when you change app initialization or state management logic.
 
 ## Demo Video
-[[Link to demo video]()](https://drive.google.com/drive/folders/1rXeJGPC0QdzeEJyAo03QXvuuuTwIVmYH?usp=drive_link)
+https://drive.google.com/drive/folders/1rXeJGPC0QdzeEJyAo03QXvuuuTwIVmYH?usp=drive_link
